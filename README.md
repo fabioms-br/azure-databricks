@@ -1,5 +1,7 @@
-## Azure Databricks
-Keywords: Data Platform, Azure Databricks, Collaborative Apache Spark-based, Apache Spark-based Big Data, Microsoft Azure Databricks Azure Databricks Pricing, Azure Databricks Events, Microsoft Azure, Azure Data, Azure Machine Learning
+## Azure Databricks  
+**Keywords:** Data Platform, Azure Databricks, Collaborative Apache Spark-based, Apache Spark-based Big Data, Microsoft Azure Databricks Azure Databricks Pricing, Azure Databricks Events, Microsoft Azure, Azure Data, Azure Machine Learning  
+
+**Youtube Playlist**: [https://youtube.com/playlist?list=PL3CylihEP9UQoMAR-LhsSqKpkS0xWw3K9](https://youtube.com/playlist?list=PL3CylihEP9UQoMAR-LhsSqKpkS0xWw3K9)  
 ### [1 - Como criar e quanto custa o Azure Databricks?](/azure-databricks-como-criar-quanto-custa.md)
 Aprenderemos nesse vídeo sobre o Azure Databricks, como criar esse no portal do Azure e quanto custa manter esse recurso mensalmente, utilizando a calculadora de preços do Azure.
 
