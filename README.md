@@ -1,5 +1,5 @@
 # Azure Databricks  
-Aprender análise de dados no Azure Databricks
+### **Aprender análise de dados no Azure Databricks**  
 **Keywords:** Data Platform, Azure Databricks, Collaborative Apache Spark-based, Apache Spark-based Big Data, Microsoft Azure Databricks Azure Databricks Pricing, Azure Databricks Events, Microsoft Azure, Azure Data, Azure Machine Learning  
 
 😉 Gostou do conteúdo? Inscreva-se também no canal: [http://www.fabioms.com.br/?url=youtube-subscribe](http://www.fabioms.com.br/?url=youtube-subscribe)
