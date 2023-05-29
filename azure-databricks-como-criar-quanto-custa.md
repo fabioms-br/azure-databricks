@@ -2,9 +2,9 @@
 
 <img src="https://fabioms.com.br/uploads/youtube/NOhxwh0cK4s.png" alt="Como criar e quanto custa o Azure Databricks?" title="Azure Databricks" width="320"/>
 
-Apresentamos nesse vídeo como criar o Azure Databricks no portal do Azure, e quanto custa manter esse recurso mensalmente utilizando a calculadora de preços do Azure.
+Apresentamos nesse vídeo como criar o recurso Azure Databricks no portal do Azure, e como estimar o custo mensal utilizando a calculadora de preços do Azure.
 
-Iremos conhecer as técnicas:
+Iremos conhecer as técnicas:  
 🔹Definir região e carga de trabalho (REGION, WORKLOAD);  
 🔹Definir a camada de serviço (SERVICE TIER); 
 🔹Definir o tipo de instância da maquina virtual (CATEGORY, INSTANCE SERIES);  

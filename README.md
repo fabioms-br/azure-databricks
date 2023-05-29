@@ -8,8 +8,7 @@
 
 
 ## [1. Como criar e quanto custa o Azure Databricks?](/azure-databricks-como-criar-quanto-custa.md)
-Aprenderemos nesse vídeo sobre o Azure Databricks, como criar esse no portal do Azure e quanto custa manter esse recurso mensalmente, utilizando a calculadora de preços do Azure.
-
+Apresentamos nesse vídeo como criar o recurso Azure Databricks no portal do Azure, e como estimar o custo mensal utilizando a calculadora de preços do Azure.  
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=azure-databricks-como-criar-quanto-custa](http://www.fabioms.com.br/?url=azure-databricks-como-criar-quanto-custa)  
 
 ## [2. Como Combinar Valores de Tabelas no Azure Databricks](/azure-databricks-combinar-valores-arquivos.md)
@@ -19,3 +18,7 @@ Apresentamos nesse vídeo com utilizar a integração do Azure Blob Storage com 
 ## [3. Remover valores duplicados no Azure Databricks](/azure-databricks-remover-duplicados.md)
 Aprensentamos nesse vídeo como acessar arquivos do Azure Data Lake com assinatura compartilhada de acesso (SAS) no Azure Databricks para remover os registros duplicados do conjunto de dados.
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=azure-databricks-remover-duplicados](http://www.fabioms.com.br/?url=azure-databricks-remover-duplicados)  
+
+## [4. Como copiar dados do Mysql para o Azure Databricks](/como-copiar-dados-mysql-no-azure-databricks.md)
+Apresentamos nesse vídeo como obter os dados do banco de dados MySQL na nuvem e armazenar na estrutura Delta Lake do Azure Databricks   
+> Assista ao vídeo: [http://www.fabioms.com.br/?url=como-copiar-dados-mysql-no-azure-databricks](http://www.fabioms.com.br/?url=como-copiar-dados-mysql-no-azure-databricks)  
