@@ -20,5 +20,5 @@ Aprensentamos nesse vídeo como acessar arquivos do Azure Data Lake com assinatu
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=azure-databricks-remover-duplicados](http://www.fabioms.com.br/?url=azure-databricks-remover-duplicados)  
 
 ## [4. Como copiar dados do Mysql para o Azure Databricks](/como-copiar-dados-mysql-no-azure-databricks.md)
-Apresentamos nesse vídeo como obter os dados do banco de dados MySQL na nuvem e armazenar na estrutura Delta Lake do Azure Databricks   
+Como obter os dados do banco de dados MySQL na nuvem e armazenar na estrutura Delta Lake do Azure Databricks   
 > Assista ao vídeo: [http://www.fabioms.com.br/?url=como-copiar-dados-mysql-no-azure-databricks](http://www.fabioms.com.br/?url=como-copiar-dados-mysql-no-azure-databricks)  

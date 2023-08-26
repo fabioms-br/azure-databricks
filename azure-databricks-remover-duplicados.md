@@ -1,6 +1,6 @@
 ## Remover valores duplicados no Azure Databricks
 
-<img src="https://fabioms.com.br//uploads/youtube/6pobuI6csUY.png" alt="Remover valores duplicados no Azure Databricks" title="Azure Databricks" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide91.png" alt="Remover valores duplicados no Azure Databricks" title="Azure Databricks" width="320"/>
 
 Aprensentamos nesse vídeo como acessar arquivos do Azure Data Lake com assinatura compartilhada de acesso (SAS) no Azure Databricks para remover os registros duplicados do conjunto de dados.
 

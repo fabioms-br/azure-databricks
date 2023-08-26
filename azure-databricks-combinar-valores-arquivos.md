@@ -1,6 +1,6 @@
 ## Como Combinar Valores de Tabelas no Azure Databricks
 
-<img src="https://fabioms.com.br//uploads/youtube/OtSqZDAQR2Y.png" alt="Como Combinar Valores de Tabelas no Azure Databricks" title="Azure Databricks" width="320"/>
+<img src="https://fabioms.com.br//uploads/youtube/Slide88.png" alt="Como Combinar Valores de Tabelas no Azure Databricks" title="Azure Databricks" width="320"/>
 
 Apresentamos nesse vídeo como utilizar a integração do Azure Data Lake com o Azure Databricks para ler arquivos em formato CSV e combinar as tabelas em um mesmo conjunto de dados.
 

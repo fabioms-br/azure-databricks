@@ -1,6 +1,6 @@
 ## Como criar e quanto custa o Azure Databricks?
 
-<img src="https://fabioms.com.br/uploads/youtube/NOhxwh0cK4s.png" alt="Como criar e quanto custa o Azure Databricks?" title="Azure Databricks" width="320"/>
+<img src="https://fabioms.com.br/uploads/youtube/Slide53.png" alt="Como criar e quanto custa o Azure Databricks?" title="Azure Databricks" width="320"/>
 
 Apresentamos nesse vídeo como criar o recurso Azure Databricks no portal do Azure, e como estimar o custo mensal utilizando a calculadora de preços do Azure.
 
